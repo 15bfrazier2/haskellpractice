@@ -1,0 +1,14 @@
+(λabc.cba)zz(λwv.w) => (λwv.w)zz => z
+
+(λx.λy.xyy)(λa.a)b => (λa.a)bb => bb
+
+(λy.y)(λx.xx)(λz.zq) => (λx.xx)(λz.zq) => (λz.zq)(λz.zq) => (λz.zq)q => qq
+
+(λz1.z1)(λz2.z2z2)(λz3.z3y) => (λz1.z1z1)(λz3.z3y) => (λz.zy)(λz.zy) => yy
+
+(λx.λy.xyy)(λy.y)y => (λy.y)yy => yy
+
+(λa.aa)(λb.ba)c => (λb.ba)(λb.ba)c => (λb.ba)ac => aac
+
+(λxyz.xz(yz))(λx.z)(λx.a)
+
